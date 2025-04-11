@@ -1,2 +1,2 @@
-# KelompokBelajarXIRPL2
+# KelompokKerjaXIRPL2
 Kelompok belajar daring XIRPL 2
